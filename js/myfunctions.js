@@ -20,7 +20,7 @@ function loadDoc(page) {
     xhttp.open("GET", "page1.html", true);
     xhttp.send();
   }
-
+  
   function showLanguage(){
 	  var select=document.getElementById("source_language");
 	  console.log(select);
