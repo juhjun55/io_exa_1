@@ -28,7 +28,6 @@ $persons=array(
   array('fn'=>'Ann', 'ln'=>'Simpson')
 );
 ?>
-<?php print_r($persons); ?>
 
 <ul>
   <?php
