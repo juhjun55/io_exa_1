@@ -1,0 +1,1 @@
+<?php print_R($_GET); ?>
